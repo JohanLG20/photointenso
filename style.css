@@ -142,8 +142,8 @@ body{
 }
 
 #welcome .button:hover{
-    color: var(--text-bg-dark);
-    background-color: rgba(var(--bg-color-primary), 0.7);
+    background-color: var(--text-bg-dark);
+    color: rgba(var(--bg-color-primary), 0.7);
     border: 1px solid var(--text-bg-dark);
     border-radius: 4px;
     -webkit-border-radius: 4px;
